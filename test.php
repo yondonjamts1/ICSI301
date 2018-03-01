@@ -1,22 +1,34 @@
+
 <html>
 <head>
 	<title>
-		hello this is test
+		php examples
 	</title>
 </head>
 <body>
-	<p>
-		check test paragraph
-	</p>
+Hello world. Hip Hip HOORAY!<br>
+<br>
 
-	<?php 
-$x = "Sain baina uu!";
-$y = 'Hello!';
 
-echo $x;
-echo "<br>";
-echo "<br>"; 
-echo $y;
-?>
-</body>
+144000<br>
+<br>
+
+
+
+<br><br>
+
+
+Lol Kok Mama
+<br><br>
+
+LOL kok mAmA<br>Lol Kok Mama
+<br><br>
+
+LOL kok mAmA<br>Lol Kok Mama
+<br><br>
+
+hello<br>whatever variable
+<br><br>
+
+include_once</body>
 </html>
